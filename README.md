@@ -1,10 +1,11 @@
-## Hi, I'm David
+## David Plaza
 
 I am a **Telecommunications Engineer with a Master’s in Network Engineering and Telematic Services**. I currently work as Software Developer in Ericsson, doing automation tasks and analysing data in 5G network structures.
+
 Python and JavaScript are my favourites coding languages, but I have also worked with React, C++, Angular and other technologies.
 
 - [Linkedin](https://www.linkedin.com/in/david-plaza-benito-8a7998233/)
-- [Email](david.plaza.benito@gmail.com)
+- [Email](mailto:david.plaza.benito@gmail.com)
 
 <!--
 **DavidPBen/DavidPBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
