@@ -16,6 +16,7 @@ Python and JavaScript are my favourites coding languages, but I have also worked
 - [offensive-language-detection-2024](https://github.com/G1-ABID-23-24/offensive-language-detection-2024)
 - [Smog-prediction](https://github.com/G1-ABID-23-24/Smog-prediction)
 - [ISST-Grupo12-NutriApp-Backend](https://github.com/lcampos01/ISST-Grupo12-NutriApp-Backend)
+- [CoreWatch](https://github.com/DavidPBen/CoreWatch)
 
 <!--
 **DavidPBen/DavidPBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
